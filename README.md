@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/max/1200/1*-6WdIcd88w3pfphHOYln3Q.png)]
 <h1 align="center">Hi 👋, I'm Surayya</h1>
-<h3 align="center">A passionate Flutter developer from Azerbaijan</h3>
+<h3 align="center">Flutter developer from Azerbaijan</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surayya-code&label=Profile%20views&color=0e75b6&style=flat" alt="surayya-code" /> </p>
