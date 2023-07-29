@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Surayya</h1>
 <h3 align="center">I'm Mobile developer from Azerbaijan</h3>
-<p align="left"> <img src="https://raw.githubusercontent.com/Michaela-K/Michaela-K/master/assets/hellogiphy.gif" alt="surayya-code" /> </p>
+
 
 
 - 🌱 I’m currently learning **Mobile Development (Kotlin and Flutter)**
