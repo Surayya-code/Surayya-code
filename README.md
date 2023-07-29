@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1200/1*-6WdIcd88w3pfphHOYln3Q.png)]
+[![MasterHead](https://raw.githubusercontent.com/Michaela-K/Michaela-K/master/assets/hellogiphy.gif)]
 
 <h1 align="center">Hi 👋, I'm Surayya</h1>
 <h3 align="center">I'm Mobile developer from Azerbaijan</h3>
