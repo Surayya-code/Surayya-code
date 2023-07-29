@@ -1,15 +1,15 @@
 [![MasterHead](https://miro.medium.com/max/1200/1*-6WdIcd88w3pfphHOYln3Q.png)]
 <h1 align="center">Hi 👋, I'm Surayya</h1>
-<h3 align="center">Flutter developer from Azerbaijan</h3>
+<h3 align="center">Mobile developer from Azerbaijan</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surayya-code&label=Profile%20views&color=0e75b6&style=flat" alt="surayya-code" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Mobile Development (Kotlin and Flutter)**
 
 - 📝 I regularly make videos about Flutter [https://www.youtube.com/@fluttergirl7210/videos](https://www.youtube.com/@fluttergirl7210/videos)
 
-- 💬 Ask me about **Android,IOS Mobile App**
+- 💬 Ask me about **Mobile App**
 
 - 📫 How to reach me **surayyaah@code.edu.az**
 
